@@ -22,5 +22,5 @@ This recipe yields soft, buttery cookies with crisp edges and melty chocolate po
 5. Combine: Stir in flour and chocolate chips.
 6. Bake: Bake at 350°F for 10 minutes.
 
-Recipe obtained from: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies
+Recipe obtained from: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
 
